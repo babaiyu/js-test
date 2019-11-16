@@ -1,4 +1,4 @@
-let A = [4, 2, 1, 5, 1, 1,6];
+let A = [4, 2, 1, 5];
 
 function arrayDiff(data) {
   let array = [], result = [];
